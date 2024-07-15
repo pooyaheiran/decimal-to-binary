@@ -1,3 +1,3 @@
-install ttkbootstrap for dark mode
+install ttkbootstrap for dark 
 
 pip install ttkbootstrap
