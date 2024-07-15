@@ -2,8 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 
 #button def
-def convert():
-    
+def convert():  
     GetNum = entry_int.get()
     BinaryList = []
     while(GetNum > 0):
