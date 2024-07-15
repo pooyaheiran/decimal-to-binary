@@ -1,6 +1,5 @@
 import tkinter as tk 
 from tkinter import ttk
-#import ttkbootstrap as ttk
 
 #button def
 def convert():
@@ -13,10 +12,7 @@ def convert():
 
     output_string.set(BinaryList[::-1])
 
-
 #window
-
-#window = ttk.Window(themename='darkly')
 window = tk.Tk()
 window.title('decimal to binary')
 window.geometry('350x120') 
